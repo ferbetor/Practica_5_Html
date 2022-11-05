@@ -1,0 +1,41 @@
+/* selector por tag */
+/* selector para el tag solo es nombre de la etiqueta */
+
+body{
+    color:blue
+}
+/* selector por id */
+/* selector para el id es #nombre */
+#bg{
+    color: tomato;
+}
+
+/* selector para class */
+/* selector para class es .nombre */
+
+.parrafo{
+    color: green;
+}
+
+
+p.text-1{
+    color: blue;
+}
+
+h2.titulo{
+    color: greenyellow;
+
+}
+
+div
+    h2, h3{
+        color: brown;
+    
+}
+
+/* selector universal */
+
+* {
+    font-size: 50px;
+    color: black;
+}
